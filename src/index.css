@@ -119,6 +119,7 @@ p {
     line-height: 1;
   }
 }
+
 /*  global classes */
 
 .btn {
@@ -139,6 +140,7 @@ p {
   color: var(--clr-primary-1);
   background: var(--clr-primary-8);
 }
+
 /* section */
 .section {
   padding: 5rem 0;
@@ -157,7 +159,7 @@ p {
 .section-center {
   width: 90vw;
   margin: 0 auto;
-  max-width: 1170px;
+  max-width: 1100px;
 }
 @media screen and (min-width: 992px) {
   .section-center {
@@ -226,6 +228,7 @@ About
 /* section center added to globals */
 .about-img,
 .about-info {
+  font-size: 1.2rem;
   margin-bottom: 2rem;
 }
 
