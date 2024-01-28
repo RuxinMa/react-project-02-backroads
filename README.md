@@ -1,6 +1,6 @@
 ## Project Review
 
-This project was build withh [Netlify](https://rm-react-project-backroads.netlify.app/).(click the link to see)
+This project was build with [Netlify](https://rm-react-project-backroads.netlify.app/).(click the link to see)
 
 ## Project Introduciton
 Create a web page called [BackRoads APP] to iterate with users about travel information.
