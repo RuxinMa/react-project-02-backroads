@@ -1,6 +1,8 @@
 ## Project Review
+Programming Lanaguage: JSX
+Programming Enviorment: Create React APP
 
-This project was build with [Netlify](https://rm-react-project-backroads.netlify.app/).(click the link to see)
+This project was build with Netlify [click me to see](https://rm-react-project-backroads.netlify.app/)
 
 ## Project Introduciton
 Create a web page called [BackRoads APP] to iterate with users about travel information.
