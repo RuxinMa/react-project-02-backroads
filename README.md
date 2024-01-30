@@ -7,7 +7,7 @@ This project was build with Netlify [click me to see](https://rm-react-project-b
 
 ## Project Introduciton
 Create a web page called **BackRoads APP** to iterate with users about travel information.
-This project can be constructed with following main components:
+This project can be constructed with following main **components**:
  - NavBar: the top bar of this webpage, including nav&sns
  - Home(Hero): the main content of the app
  - About: the introduction of the app
