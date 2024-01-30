@@ -1,7 +1,7 @@
 ## Project Review
 Programming Lanaguage: JSX
 
-Programming Enviorment: Create React APP
+Programming Environment: Create React APP
 
 This project was build with Netlify [click me to see](https://rm-react-project-backroads.netlify.app/)
 
