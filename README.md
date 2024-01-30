@@ -6,7 +6,7 @@ Programming Environment: Create React APP
 This project was build with Netlify [click me to see](https://rm-react-project-backroads.netlify.app/)
 
 ## Project Introduciton
-Create a web page called [BackRoads APP] to iterate with users about travel information.
+Create a web page called **BackRoads APP** to iterate with users about travel information.
 This project can be constructed with following main components:
  - NavBar: the top bar of this webpage, including nav&sns
  - Home(Hero): the main content of the app
