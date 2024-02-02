@@ -1,12 +1,8 @@
 ## Project Review
-Programming Lanaguage: JSX
+This project was deploy on Netlify [click me to see](https://rm-react-project-backroads.netlify.app/)
 
-Programming Environment: Create React APP
-
-This project was build with Netlify [click me to see](https://rm-react-project-backroads.netlify.app/)
-
-## Project Introduciton
-Create a web page called **BackRoads APP** to iterate with users about travel information.
+### Description
+Extensively employ JavaScript ES6+ and React componentization to implement a responsive website called **BackRoads APP** for travel applications to showcase their products.
 This project can be constructed with following main **components**:
  - NavBar: the top bar of this webpage, including nav&sns
  - Home(Hero): the main content of the app
